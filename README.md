@@ -1,6 +1,5 @@
 <div align = "center" >
   
-<img width="1000" height="300" alt="Untitled" src="https://github.com/user-attachments/assets/0ad68f8a-e8e1-41ad-b347-f64f4d591bd4" />
 
 <img width="100%" height="2px" alt="Untitled" src="https://github.com/user-attachments/assets/27b5afb4-4c61-41cf-bf8e-d0f869e80bfe" />
 
@@ -22,10 +21,7 @@
 <br>
 
 <div align = "center">
-    
-
-<img width="100%" height="2px" alt="Untitled" src="https://github.com/user-attachments/assets/27b5afb4-4c61-41cf-bf8e-d0f869e80bfe" />
-
+  
 
 ***Socials***
 
