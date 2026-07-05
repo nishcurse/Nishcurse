@@ -7,21 +7,21 @@
 ***About me***
 
 
-<img align="right" width=350px height="200px" alt="GIF THi Chali gyi" src="https://github.com/user-attachments/assets/150f0d11-cd34-4521-aec5-fedab02b8229" />
+<img align="right" width=510px height="400px" alt="GIF THi Chali gyi" src="https://github.com/user-attachments/assets/87360a11-d8ed-46c4-a768-96ec2bb91c61" />
+
 
 </div>
 
-- 📚 I’m currently learning ...
-  - *NextJs, Postgres*
-  - *Compitative Programing + WebDev*
-- 🚀 I’m eager to work on new projects.
-- ✔ Feel free to ask me anything! I’m motivated to help others.
-- Loves cli vibes, games , animes , mangas ...................
-- 📫 Reach out to me at: <a href="nishhcurse@zohomail.in">nishcurse@zohomail.in</a>
+-  I'm Nish 
+  - *Learning Developnment & system Design*
+  - *Likes to solve problem harder than my domain*
+- Loves to Help Others .
+- ✔ Feel free to ask me anything dev, cp , games , animes , mangas , movies , shows ......
+-  Reach out to me at: <a href="nothingislive@gmail.com">nothingislive@gmail.com</a>
 <br>
 
 <div align = "center">
-  
+  <br>
 
 ***Socials***
 
