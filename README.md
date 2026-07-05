@@ -19,9 +19,8 @@
 - ✔ Feel free to ask me anything dev, cp , games , animes , mangas , movies , shows ......
 -  Reach out to me at: <a href="nothingislive@gmail.com">nothingislive@gmail.com</a>
 <br>
-
+<br>
 <div align = "center">
-  <br>
 
 ***Socials***
 
