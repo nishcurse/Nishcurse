@@ -1,0 +1,48 @@
+{
+  "image": "https://discordpfp.gg/images/pfp/cute-cat/cute-cat-pfp-cute-cat-dood--cute-cat-dood.webp?d=full", 
+  "coloredImage": true,
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "fields": [
+        { "key": "Name", "value": "{{name}}" },
+        { "key": "Bio", "value": "Fresher Devloper & i like this stuff" },
+        { "key": "Location", "value": "{{location}}" },
+        { "key": "Uptime", "value": "{{uptime}}" }
+      ]
+    },
+    {
+      "title": "- Competitive Programming",
+      "fields": [
+        { "key": "LeetCode", "value": "Knight (Max: 2003)" },
+        { "key": "Codeforces", "value": "Specialist (Max: 1522)" },
+        { "key": "CodeChef", "value": "3 Stars(Max: 796 almost 4star)" },
+        { "key": "AtCoder", "value": "1033" }
+      ]
+    },
+    {
+      "title": "- Skills",
+      "fields": [
+        { "key": "Languages", "value": "C++, Python ,JS + TS, Bash , lua" },
+        { "key": "Interests", "value": "CP , Agentic Ai, WebDev" }
+      ]
+    },
+    {
+      "title": "- Contact",
+      "fields": [
+        { "key": "Email", "value": "{{email}}" },
+        { "key": "Portfolio", "value": "Comming Soon" },
+        { "key": "Twitter", "value": "nishcurse" }
+      ]
+    }
+  ],
+  "stats": {
+    "title": "- GitHub Stats",
+    "rows": [
+      { "left": { "key": "Repos", "value": "{{repos}}" }, "right": { "key": "Stars", "value": "{{stars}}" } },
+      { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Followers", "value": "{{followers}}" } },
+      { "left": { "key": "Issues", "value": "{{issues}}" }, "right": { "key": "PRs", "value": "{{prs}}" } },
+      "loc"
+    ]
+  }
+}
