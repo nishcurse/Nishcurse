@@ -1,6 +1,6 @@
 {
   "image": "https://discordpfp.gg/images/pfp/cute-cat/cute-cat-pfp-cute-cat-dood--cute-cat-dood.webp?d=full", 
-  "coloredImage": true,
+  "coloredImage": false,
   "sections": [
     {
       "title": "{{username}}@github",
