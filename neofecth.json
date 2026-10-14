@@ -1,43 +1,48 @@
 {
-  "image": "https://discordpfp.gg/images/pfp/cute-cat/cute-cat-pfp-cute-cat-dood--cute-cat-dood.webp?d=full", 
+  "image": "https://www.svgrepo.com/show/511307/airplane-mode-1406.svg", 
   "coloredImage": false,
   "sections": [
     {
       "title": "{{username}}@github",
+      "titleColor": { "text": "#1A73E8, #4285F4", "line": "#5F6368, #9AA0A6" },
       "fields": [
-        { "key": "Name", "value": "{{name}}" },
-        { "key": "Bio", "value": "Fresher Devloper & i like this stuff" },
-        { "key": "Location", "value": "{{location}}" },
-        { "key": "Uptime", "value": "{{uptime}}" }
+        { "key": "Name", "value": "{{name}}", "keyColor": "#1A73E8, #4285F4", "valueColor": "#202124, #E8EAED" },
+        { "key": "Bio", "value": "Fresher Devloper & i like this stuff", "keyColor": "#EA4335, #EA4335", "valueColor": "#202124, #E8EAED" },
+        { "key": "Location", "value": "{{location}}", "keyColor": "#FBBC04, #FBBC04", "valueColor": "#202124, #E8EAED" },
+        { "key": "Uptime", "value": "{{uptime}}", "keyColor": "#34A853, #34A853", "valueColor": "#202124, #E8EAED" }
       ]
     },
     {
       "title": "- Competitive Programming",
+      "titleColor": { "text": "#1A73E8, #4285F4", "line": "#5F6368, #9AA0A6" },
       "fields": [
-        { "key": "LeetCode", "value": "Knight (Max: 2003)" },
-        { "key": "Codeforces", "value": "Specialist (Max: 1522)" },
-        { "key": "CodeChef", "value": "3 Stars(Max: 796 almost 4star)" },
-        { "key": "AtCoder", "value": "1033" }
+        { "key": "LeetCode", "value": "Knight (Max: 2003)", "keyColor": "#1A73E8, #4285F4", "valueColor": "#202124, #E8EAED" },
+        { "key": "Codeforces", "value": "Specialist (Max: 1522)", "keyColor": "#EA4335, #EA4335", "valueColor": "#202124, #E8EAED" },
+        { "key": "CodeChef", "value": "3 Stars(Max: 796 almost 4star)", "keyColor": "#FBBC04, #FBBC04", "valueColor": "#202124, #E8EAED" },
+        { "key": "AtCoder", "value": "1033", "keyColor": "#34A853, #34A853", "valueColor": "#202124, #E8EAED" }
       ]
     },
     {
       "title": "- Skills",
+      "titleColor": { "text": "#1A73E8, #4285F4", "line": "#5F6368, #9AA0A6" },
       "fields": [
-        { "key": "Languages", "value": "C++, Python ,JS + TS, Bash , lua" },
-        { "key": "Interests", "value": "CP , Agentic Ai, WebDev" }
+        { "key": "Languages", "value": "C++, Python ,JS + TS, Bash , lua", "keyColor": "#1A73E8, #4285F4", "valueColor": "#202124, #E8EAED" },
+        { "key": "Interests", "value": "CP , Agentic Ai, WebDev", "keyColor": "#EA4335, #EA4335", "valueColor": "#202124, #E8EAED" }
       ]
     },
     {
       "title": "- Contact",
+      "titleColor": { "text": "#1A73E8, #4285F4", "line": "#5F6368, #9AA0A6" },
       "fields": [
-        { "key": "Email", "value": "{{email}}" },
-        { "key": "Portfolio", "value": "Comming Soon" },
-        { "key": "Twitter", "value": "nishcurse" }
+        { "key": "Email", "value": "{{email}}", "keyColor": "#FBBC04, #FBBC04", "valueColor": "#202124, #E8EAED" },
+        { "key": "Portfolio", "value": "Comming Soon", "keyColor": "#34A853, #34A853", "valueColor": "#202124, #E8EAED" },
+        { "key": "Twitter", "value": "nishcurse", "keyColor": "#1A73E8, #4285F4", "valueColor": "#202124, #E8EAED" }
       ]
     }
   ],
   "stats": {
     "title": "- GitHub Stats",
+    "titleColor": { "text": "#1A73E8, #4285F4", "line": "#5F6368, #9AA0A6" },
     "rows": [
       { "left": { "key": "Repos", "value": "{{repos}}" }, "right": { "key": "Stars", "value": "{{stars}}" } },
       { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Followers", "value": "{{followers}}" } },
