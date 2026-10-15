@@ -1,6 +1,6 @@
 {
   "image": "https://www.svgrepo.com/show/511307/airplane-mode-1406.svg", 
-  "coloredImage": true,
+  "coloredImage": false,
   "sections": [
     {
       "title": "{{username}}@github",
