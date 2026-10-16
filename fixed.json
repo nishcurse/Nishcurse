@@ -35,7 +35,7 @@
       "titleColor": { "text": "#1A73E8, #4285F4", "line": "#5F6368, #9AA0A6" },
       "fields": [
         { "key": "Email", "value": "nishcurse@zohomail.in", "keyColor": "#FBBC04, #FBBC04", "valueColor": "#202124, #E8EAED" },
-        { "key": "Portfolio", "value": "Comming Soon", "keyColor": "#34A853, #34A853", "valueColor": "#202124, #E8EAED" }
+        { "key": "Links", "value": "https://nishlinks.vercel.app/", "keyColor": "#34A853, #34A853", "valueColor": "#202124, #E8EAED" }
       ]
     }
   ],
